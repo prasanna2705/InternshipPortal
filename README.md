@@ -1,0 +1,2 @@
+# InternshipPortal
+Flutter mobile application
